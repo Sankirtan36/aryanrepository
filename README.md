@@ -1,4 +1,6 @@
 # aryanrepository
-yeh mera pahla repository hai ,<br>repository mae new line mae likhna etc. chizo ke liye haam html ka upyog karte hai
-<br>
-jab bhi haam edit/changes karte hai tou haame changes ka naam dena hota hai hai {like koi changes karke haam uska screenshot leke uss screenshot ka naam deke save karte hai} similar yaha pe bhi
+This is my first repository.
+In the repository, we use HTML for writing in a new line and similar tasks.
+
+Whenever we edit or make changes, we need to give a name to those changes.
+(For example: If we make a change and take a screenshot, we save it by giving it a name related to the screenshot.) Similarly, we do the same here.
